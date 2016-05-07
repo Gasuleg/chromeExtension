@@ -6,6 +6,6 @@
   </head>
   <body>
     <h1>Source Maitre</h1>
-    <button id="checkPage">Notre site web</button>
+    <button id="checkPage">Check this page now!</button>
   </body>
 </html>
