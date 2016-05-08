@@ -6,8 +6,8 @@
   </head>
   <body>
     <h1>Source Maitre</h1>
+    <img src="icon.png" /> 
     <button id="checkPage">Notre site web</button>
-    <a href="http://www.google.com/*">Hyperlink Code</a>
   </body>
   <style>
 	body
