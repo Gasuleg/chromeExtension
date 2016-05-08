@@ -11,5 +11,6 @@
   },
   "permissions": [
     "activeTab"
+      "tabs", "http://madeleinebruneau93.wix.com/sourcemaitre"
   ]
 }
